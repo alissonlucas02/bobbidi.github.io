@@ -1,5 +1,6 @@
 #titulo{
     background-image: url(img/t_01.jpg);
+    border-radius: 10px;
 }
 
 .select01{
@@ -18,14 +19,30 @@
     position: relative;
     top: 10px;
     width: 500px;
-    margin: auto;
+    margin: 0 auto;
     border: 1px silver black;
     padding: 25px 80px 70px 25px;
-    background-color: red;
+    background-color: silver;
+    border-radius: 20px;
 }
 
 .pading{
     padding: 290px 20px;
+}
+
+.t{
+    position: relative;
+    top: 10px;
+    width: 200px;
+    margin: 0 auto;
+    border: 1px black;
+    }
+
+.cor{
+    position: absolute;
+    border: 1px silver black;
+    background-color: blue;
+    height: 36px;
 }
 
 /*.zaz-app-navbar{

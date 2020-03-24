@@ -1,4 +1,4 @@
 function teste(){
-	var a = 5;
+	var a = "“Tente de novo. Fracasse de novo. Mas fracasse melhor”";
 	document.getElementById('demo').innerHTML = a;
 }
