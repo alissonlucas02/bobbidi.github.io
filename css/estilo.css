@@ -45,6 +45,20 @@
   .sidenav a {font-size: 18px;}
 }
 
+
+@media only screen and (max-width: 600px){
+  
+}
+    figure.teste {
+        position: relative;
+    }
+    figure.teste figcaption{
+        margin: 0;
+        top: 0;
+    }
+    figure.teste figcaption: hover {
+        opacity: 1;
+    }
 div.import{
    position: relative;
    height: 500px;
@@ -68,3 +82,4 @@ div.import table{
     border: 1px;
     background-color: lightblue;
 }
+
