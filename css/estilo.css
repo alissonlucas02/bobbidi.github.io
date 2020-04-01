@@ -8,7 +8,7 @@
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: #b3ffff;
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
@@ -83,3 +83,12 @@ div.import table{
     background-color: lightblue;
 }
 
+
+header {
+    top: 0;
+    position: fixed;
+    width: 100%;
+    background-image: url(img/t_01.jpg);
+    height: 52px;
+    margin: 0 auto;
+}
